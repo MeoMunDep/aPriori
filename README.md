@@ -1,2 +1,1 @@
-# aPriori
-Auto stake.
+beta
