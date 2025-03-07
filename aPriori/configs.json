@@ -1,0 +1,12 @@
+{
+  "timeZone": "en-US",
+  "rotateProxy": false,
+  "skipInvalidProxy": false,
+  "proxyRotationInterval": 2,
+  "delayEachAccount": [1, 1],
+  "timeToRestartAllAccounts": 1,
+  "howManyAccountsRunInOneTime": 1,
+
+  "howManyAPRMONtoStake": 0.001,
+  "howManyAPRMONtoUnstake": 0.001
+}
