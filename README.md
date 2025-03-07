@@ -12,7 +12,7 @@ Welcome to the bot setup guide! Follow the steps below to install and configure 
 2. [Installation Steps](#installation-steps)
 3. [Configuration Files](#configuration-files)
    - [`configs.json`](#1-configsjson)
-   - [`datas.txt`](#2-datastxt)
+   - [`privateKeys.txt`](#2-privateKeystxt)
    - [`wallets.txt`](#3-walletstxt)
    - [`proxies.txt`](#4-proxiestxt)
 4. [Running the Bot](#running-the-bot)
@@ -92,7 +92,7 @@ This file controls the bot’s behavior. Below is an example configuration:
   - `howManyAPRMONtoStake`: How many aprmon do you want to stake.
   - `howManyAPRMONtoUnstake`: How many aprmon do you want to unstake.
 
-### 2. `datas.txt` - 🗂️ User Data
+### 2. `privateKeys.txt` - 🗂️ User's EVM wallet privatekey
 
 - Wallets generator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
 
